@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticalAssessmentMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="geofence_entry_text">GEOFENCE TRANSITION ENTER </string>
+    <string name="geofence_exit_text">GEOFENCE TRANSITION EXIT  </string>
+    <string name="invalid_type_error">Invalid Type</string>
+    <string name="location">Location </string>
+    <string name="alert_title">Location Permission Needed</string>
+    <string name="ok">Ok</string>
+    <string name="alert_msg">This app needs the Location permission, please accept to use location functionality</string>
+    <string name="permision_granted_msg">Now you can add geofence</string>
+    <string name="permission_error">Background location access is necessary for geofence to trigger</string>
+</resources>
